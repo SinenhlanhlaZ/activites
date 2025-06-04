@@ -1,0 +1,19 @@
+{
+  "name": "activity-2",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.1"
+  }
+}
