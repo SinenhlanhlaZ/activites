@@ -1,4 +1,4 @@
-##Thoughts
+## Thoughts
 The task was extremely easy. The requirements for the 2nd task were quite vague. It is 
 not possible to directly connect a raw javascript application to a database. To do so, you'd 
 need a backend server that bridges the communication between the front and backend. The 
@@ -8,7 +8,7 @@ of creating a backend server.
 I also refrained from using fancy frameworks because of a difference in development environments, 
 so I chose to just create a simple file.
 
-##Task 2
+## Task 2
 - Run `npm install --save`
 
 1. Open index.html
